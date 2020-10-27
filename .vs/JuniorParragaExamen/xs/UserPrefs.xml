@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{499EA73F-E35E-458B-B3A7-72167F13F1B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JuniorParragaExamen/Registro.xaml">
+    <Files>
+      <File FileName="JuniorParragaExamen/Registro.xaml" Line="17" Column="31" />
+      <File FileName="JuniorParragaExamen/Registro.xaml.cs" Line="39" Column="21" />
+      <File FileName="JuniorParragaExamen/Resumen.xaml" />
+      <File FileName="JuniorParragaExamen/Resumen.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JuniorParragaExamen" expanded="True">
+            <Node name="JuniorParragaExamen" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="Login.xaml" expanded="True" />
+              <Node name="Registro.xaml" expanded="True" selected="True" />
+              <Node name="Resumen.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JuniorParragaExamen.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.JuniorParragaExamen.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

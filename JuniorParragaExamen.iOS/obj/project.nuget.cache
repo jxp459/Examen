@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qL/fy3FyQqpnfl9sCPNaagZFQZWYyLCZgBeDACvS8jcT9jwyayhFZIzjh8qdaELW8+B82RuiqbcX5+ynPqxh4Q==",
+  "success": true,
+  "projectFilePath": "/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen.iOS/JuniorParragaExamen.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/juniorparraga/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/juniorparraga/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

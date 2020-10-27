@@ -1,0 +1,17 @@
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/bin/Debug/netstandard2.0/JuniorParragaExamen.deps.json
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/bin/Debug/netstandard2.0/JuniorParragaExamen.dll
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/bin/Debug/netstandard2.0/ref/JuniorParragaExamen.dll
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/bin/Debug/netstandard2.0/JuniorParragaExamen.pdb
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/Login.xaml.g.cs
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/Registro.xaml.g.cs
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/Resumen.xaml.g.cs
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/JuniorParragaExamen.AssemblyInfoInputs.cache
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/JuniorParragaExamen.AssemblyInfo.cs
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/JuniorParragaExamen.csproj.CoreCompileInputs.cache
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/JuniorParragaExamen.dll
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/ref/JuniorParragaExamen.dll
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/JuniorParragaExamen.pdb
+/Users/juniorparraga/Projects/JuniorParragaExamen/JuniorParragaExamen/obj/Debug/netstandard2.0/JuniorParragaExamen.csprojAssemblyReference.cache
